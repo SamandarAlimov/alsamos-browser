@@ -1,0 +1,25 @@
+project_id = "mrlfbafbllsumkidpxrf"
+
+[functions.search]
+verify_jwt = false
+
+[functions.crawl]
+verify_jwt = false
+
+[functions.submit-url]
+verify_jwt = false
+
+[functions.generate-embeddings]
+verify_jwt = false
+
+[functions.semantic-search]
+verify_jwt = false
+
+[functions.api]
+verify_jwt = false
+
+[functions.web-search]
+verify_jwt = false
+
+[functions.alsamos-oauth]
+verify_jwt = false
